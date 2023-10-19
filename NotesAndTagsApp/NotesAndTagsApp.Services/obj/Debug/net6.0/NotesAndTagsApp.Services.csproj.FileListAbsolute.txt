@@ -1,0 +1,46 @@
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.deps.json
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DTOs.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Mappers.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Shared.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DTOs.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Mappers.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Shared.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.CopyComplete
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\refint\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\ref\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.deps.json
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Services.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DTOs.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Mappers.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Shared.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.DTOs.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Mappers.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Shared.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.csproj.CopyComplete
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\refint\NotesAndTagsApp.Services.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\NotesAndTagsApp.Services.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Services\obj\Debug\net6.0\ref\NotesAndTagsApp.Services.dll

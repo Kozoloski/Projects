@@ -1,0 +1,28 @@
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.deps.json
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.runtimeconfig.json
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\refint\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\ASP.NET-Web-API\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\ref\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.deps.json
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.runtimeconfig.json
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\refint\NotesAndTagsApp.Domain.dll
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\NotesAndTagsApp.Domain.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\InterviewProjects\Projects\NotesAndTagsApp\NotesAndTagsApp.Domain\obj\Debug\net6.0\ref\NotesAndTagsApp.Domain.dll
